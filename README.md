@@ -1,6 +1,11 @@
 
 <!--
-**Pphanik/Pphanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pphanik/Pphanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![7bcd6fe1-6625-4e8f-af83-57380a56fa11](https://github.com/user-attachments/assets/2e2de014-e2c2-4d02-b2bc-4611461da626)
+
+
+
+https://github.com/user-attachments/assets/0b74412d-90da-4c88-b7f0-7166971d7a27
+
 
 Here are some ideas to get you started:
 
