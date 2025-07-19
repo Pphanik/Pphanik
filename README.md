@@ -11,6 +11,7 @@
 
 
 
+<img width="675" height="517" alt="130 sin título_20250718200400" src="https://github.com/user-attachments/assets/cf2ca1c3-d970-47d0-812a-3a60ff5a8ccf" />
 
 
 
