@@ -1,4 +1,7 @@
-<img width="2160" height="862" alt="183 sin título_20251004165147" src="https://github.com/user-attachments/assets/3731c78c-538f-4837-a30a-2ba39194118d" />
+<img width="2160" height="862" alt="183 sin título_20251004175359" src="https://github.com/user-attachments/assets/160f313a-3183-49a3-9c0a-f55b4d2149c3" />
+
+<img width="958" height="538" alt="185 sin título_20251004174952" src="https://github.com/user-attachments/assets/65e65a7a-7d5b-46eb-b363-8b5d0b53246b" />
+
 
 
 
