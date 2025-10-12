@@ -15,3 +15,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pmpcnt2uod2athmgdwtem7jkde&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pmpcnt2uod2athmgdwtem7jkde&redirect=true)
 
+<img width="1803" height="645" alt="204 sin título_20251012003351" src="https://github.com/user-attachments/assets/b356b00b-0d54-46ad-bb80-4fed00827b24" />
