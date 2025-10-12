@@ -10,8 +10,7 @@
 <img width="2160" height="862" alt="183 sin título_20251004165147" src="https://github.com/user-attachments/assets/ff71271d-cdd8-4bf8-b115-caeef647f03d" />
 “𝙰 𝚋𝚘𝚍𝚢 𝚝𝚑𝚊𝚝 𝚠𝚒𝚕𝚕 𝚗𝚎𝚟𝚎𝚛 𝚏𝚊𝚍𝚎 𝚎𝚟𝚎𝚗 𝚒𝚗 𝚍𝚎𝚊𝚝𝚑. 𝙰 𝚋𝚘𝚍𝚢 𝚊𝚜 𝚏𝚛𝚎𝚜𝚑 𝚊𝚜 𝚒𝚝 𝚠𝚊𝚜 𝚒𝚗 𝚕𝚒𝚏𝚎. 𝚃𝚑𝚎𝚢 𝚑𝚊𝚟𝚎 𝚎𝚝𝚎𝚛𝚗𝚊𝚕 𝚋𝚎𝚊𝚞𝚝𝚢 𝚠𝚒𝚝𝚑𝚒𝚗 𝚝𝚑𝚎𝚒𝚛 𝚐𝚛𝚊𝚜𝚙.”
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31pmpcnt2uod2athmgdwtem7jkde&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pmpcnt2uod2athmgdwtem7jkde&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&profanity=false&bar_color_cover=false&bar_color=ffffff">
-  </a>
-</p>
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pmpcnt2uod2athmgdwtem7jkde&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pmpcnt2uod2athmgdwtem7jkde&redirect=true)
+
