@@ -14,6 +14,6 @@
 
 
 
-“Can  $\color{#0024B6}{deceit}$ you change your $\color{#004AD5}{mind}$?
+“Can  $\color{#0024B6}{deceit}$ change your $\color{#004AD5}{mind}$?
 
 ...or will you lose your $\color{#C80A00}{sanity}$ in the process?”
