@@ -7,6 +7,6 @@ ____________________________
 <img width="1080" height="296" alt="255 sin título_20251211110830" src="https://github.com/user-attachments/assets/2ea29cfc-f78e-4fc1-bccd-badbf79dcefc" />
 
 ______________________________
-“Can  $\color{#0024B6}{deceit}$ change your $\color{#004AD5}{mind}$?”
+“Can  $\color{#0024B6}{deceit}$ you change your $\color{#004AD5}{mind}$?
 
-“Or will you lose your $\color{#C80A00}{sanity}$ in the process...?”
+...or will you lose your $\color{#C80A00}{sanity}$ in the process?”
