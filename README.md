@@ -12,3 +12,6 @@
 
 
 
+![IMG_0729](https://github.com/user-attachments/assets/3eb03440-347a-4b4d-8b8b-8113c4f63baf)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pmpcnt2uod2athmgdwtem7jkde&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pmpcnt2uod2athmgdwtem7jkde&redirect=true)
