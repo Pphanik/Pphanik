@@ -1,4 +1,4 @@
-  ${{\color{Lightyellow}\{\textsf{ A\ king\ must\ have\ the\ \}}}}\$ ${{\color{Purple}\{\textsf{strength\}}}}\$ ${{\color{Lightyellow}\{\textsf{ to\ carry\ the\ weight\ of\ his\ \}}}}\$ ${{\color{Purple}\{\textsf{ crown\ .\ .\ \ .\}}}}\$![IMG_0759](https://github.com/user-attachments/assets/aec0f7ef-ef09-41e4-9b76-be2cbdb75896)
+  ${{\color{Lightyellow}\{\textsf{ A\ king\ must\ have\ the\ \}}}}\$ ${{\color{Purple}\{\textsf{strength\}}}}\$ ${{\color{Lightyellow}\{\textsf{ to\ carry\ the\ weight\ of\ his\ \}}}}\$ ${{\color{Purple}\{\textsf{ crown\ .\ .\ \ .\}}}}\$ ![IMG_0759](https://github.com/user-attachments/assets/aec0f7ef-ef09-41e4-9b76-be2cbdb75896)
 
   
 
