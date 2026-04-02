@@ -8,4 +8,4 @@
 
 ![IMG_9425](https://github.com/user-attachments/assets/86bc6957-7c3e-48ff-8bfe-19cbb48c4bdd)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pmpcnt2uod2athmgdwtem7jkde&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pmpcnt2uod2athmgdwtem7jkde&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pmpcnt2uod2athmgdwtem7jkde&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pmpcnt2uod2athmgdwtem7jkde&redirect=true)
