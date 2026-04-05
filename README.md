@@ -1,7 +1,7 @@
   ${{\color{White}\{\textsf{ A\ king\ must\ have\ the\ \}}}}\$ ${{\color{Purple}\{\textsf{strength\}}}}\$ ${{\color{White}\{\textsf{ to\ carry\ the\ weight\ of\ his\ \}}}}\$ ${{\color{Purple}\{\textsf{ crown\ .\ .\ \ .\}}}}\$ ![IMG_0759](https://github.com/user-attachments/assets/aec0f7ef-ef09-41e4-9b76-be2cbdb75896)
 
-  
-<img width="1472" height="828" alt="63 sin título_20260402020807" src="https://github.com/user-attachments/assets/535b0949-d336-4dea-89e5-abe5103927cf" />
+<img width="2944" height="1656" alt="63 sin título_20260402020807 2" src="https://github.com/user-attachments/assets/24611352-f3ac-471c-9619-2e303b091684" />
+
 
 
 
